@@ -6,4 +6,4 @@ As you navigate through the sections, I invite you to not just witness my work b
 Thank you for stepping into my digital realm. 
 May this portfolio be more than a showcase—it's an invitation to connect, collaborate, and explore the synergies that lie ahead.
 
-Netlify Site: https://nabayra-final-exercise.netlify.app/
+Netlify Site: nabayra-portfolio.netlify.app
