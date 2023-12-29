@@ -11,7 +11,7 @@ body {
 h1 {
     background: linear-gradient(to bottom, #008000, #004000);
     color: white;
-    padding: 20px;
+    padding: 30px;
     margin: 0;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
@@ -35,6 +35,52 @@ h2 {
     padding: 10px;
     margin: 10px;
     width: 50%;
+}
+
+.journal {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.journal h2 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: 27px;
+}
+
+.journal img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #008080;
+    border-radius: 10px;
+}
+
+.journal p {
+    font-size: 17px;
+    text-align: justify;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.quote-container {
+    background-color: #90EE90;
+    color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.quote-container p {
+    margin: 0;
+    font-size: 21px;
+    font-style: italic;
+    text-align: center;
 }
 
 #comment_form {
